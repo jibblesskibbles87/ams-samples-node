@@ -1,7 +1,6 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:4-24-bookworm",
   "features": {
-    "ghcr.io/devcontainers/features/node:1": {},
     "ghcr.io/navinkrishnan/devcontainer-features-btp/mbt:1": {},
     "ghcr.io/navinkrishnan/devcontainer-features-btp/cf:1": {},
     "ghcr.io/navinkrishnan/devcontainer-features-btp/cds-dk:1": {
